@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @z8in
+- Data analyst who is highly analytical and process-oriented, with knowledge of database types, 
+- research methodology, and big data acquisition, curation, manipulation, and visualization. 
